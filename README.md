@@ -5,6 +5,9 @@
 <img width="755" height="514" alt="Screenshot 2026-01-24 171121" src="https://github.com/user-attachments/assets/00e78032-a7c7-44b9-a2b2-f5b8dca85e24" />
 <img width="750" height="515" alt="Screenshot 2026-01-24 171136" src="https://github.com/user-attachments/assets/f391a8e6-c611-4b8b-935c-2b75ad496561" />
 # Day 2 Github and Linux overview
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/520c8cfe-b69d-4d64-9aca-a794beb6f90a" />
+
+
 
 
 # Day 3 Basic of Floorplaning + Github and Linux
