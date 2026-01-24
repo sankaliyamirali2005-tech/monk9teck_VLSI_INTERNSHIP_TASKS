@@ -1,9 +1,14 @@
 # monk9teck_VLSI_INTERNSHIP_TASKS
 # Day 1 overview of physical design
-
+<img width="831" height="693" alt="Screenshot 2026-01-24 171044" src="https://github.com/user-attachments/assets/99a37cbc-a5ff-4e24-932f-71b4cab45a26" />
+<img width="836" height="567" alt="Screenshot 2026-01-24 171102" src="https://github.com/user-attachments/assets/8c058ccb-0d06-4869-96af-cda8c874eb5d" />
+<img width="755" height="514" alt="Screenshot 2026-01-24 171121" src="https://github.com/user-attachments/assets/00e78032-a7c7-44b9-a2b2-f5b8dca85e24" />
+<img width="750" height="515" alt="Screenshot 2026-01-24 171136" src="https://github.com/user-attachments/assets/f391a8e6-c611-4b8b-935c-2b75ad496561" />
 # Day 2 Github and Linux overview
 
-# Day 3 Basic of Floorplaning + Github and Linux Labs
+
+# Day 3 Basic of Floorplaning + Github and Linux
+
 
 
 ## TASK 1 create github profile and readme files
