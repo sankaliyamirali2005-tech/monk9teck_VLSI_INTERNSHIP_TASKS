@@ -25,6 +25,20 @@
  📚 Currently learning new technologies and improving my skills
  
  🚀 Aspiring Semiconducter Engineer  
+ 
+## Usage/Examples
+# Simple Python program
+
+# Print a message
+print("Hello, World!")
+
+# Do a basic calculation
+a = 5
+b = 3
+sum = a + b
+print("The sum of", a, "and", b, "is:", sum)
+
+
 
 # Day 4 Embedded system
 https://github.com/user-attachments/assets/35ea602a-1485-4e7b-a5e2-f5ca60edce51
