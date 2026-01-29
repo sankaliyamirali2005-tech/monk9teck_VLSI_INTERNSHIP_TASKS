@@ -14,8 +14,8 @@
 
 
 
-## TASK 1 create github profile and readme files
+## TASK 1 create github profile and readme file
 
-
-### task 2 Github & Readme Labs
+# Day 4 Embedded system
+https://github.com/user-attachments/assets/35ea602a-1485-4e7b-a5e2-f5ca60edce51
 
