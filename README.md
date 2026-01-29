@@ -15,6 +15,16 @@
 
 
 ## TASK 1 create github profile and readme file
+ 
+ 🚀  I am SANKALIYA MIRALI 
+ 
+ 👋 Hi, I'm a Diploma ICT Engineering student 
+ 
+ 💻 Interested in Programming, Networking, and Embedded Systems 
+ 
+ 📚 Currently learning new technologies and improving my skills
+ 
+ 🚀 Aspiring Semiconducter Engineer  
 
 # Day 4 Embedded system
 https://github.com/user-attachments/assets/35ea602a-1485-4e7b-a5e2-f5ca60edce51
