@@ -18,4 +18,4 @@
 
 # Day 4 Embedded system
 https://github.com/user-attachments/assets/35ea602a-1485-4e7b-a5e2-f5ca60edce51
-
+![WhatsApp Image 2026-01-29 at 9 34 46 PM](https://github.com/user-attachments/assets/111fef40-61db-421a-8bb6-fe0c6081451a)
